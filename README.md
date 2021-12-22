@@ -171,6 +171,7 @@ Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad 
 
 **6.CONCLUSIONES**
 
+-	Al comparar todos los valores obtenidos tanto en los que calculamos como los simulados, obtuvimos un error pequeño menor al 5%, por lo que podemos decir que son correctos. 
 
 
 
