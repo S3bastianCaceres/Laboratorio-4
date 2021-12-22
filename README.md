@@ -1,6 +1,6 @@
 # Informe laboratorio 4
  
- 1.OBJETIVOS
+ **1.OBJETIVOS**
 
 Los objetivos deben responder claramente la pregunta ¿Qué investigar? El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación.
 
@@ -19,7 +19,7 @@ Al finalizar la investigación, los objetivos han de ser identificables con los 
 
 Considerar la Taxonomía de Bloom
 
-2.MARCO TEÓRICO
+**2.MARCO TEÓRICO**
 
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
@@ -36,14 +36,14 @@ El contenido debe ser desarrollado.
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
-3.1 **REQUISITOS PREVIOS**
+3.1 **Requisitos Previos**
 
 Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el
 Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la polaridad
 del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en
 la tabla 4.1. y 4.2. según corresponda.
 
-3.2 **NFORMACIÓN GENERAL**
+3.2 **Información General**
 
 Uno de los métodos que se aplica en el análisis de circuitos eléctricos que cuentan
 con varias fuentes, es el Teorema de Superposición que establece que:
@@ -55,7 +55,7 @@ cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero
 Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
 las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 
- 3.3 **MATERIAL Y EQUIPO REQUERIDO**
+ 3.3 **Material y equipo Requerido**
 
 |**CANTIDAD**| **ELEMENTO**|
 |:---: | :---: |
@@ -68,18 +68,39 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 | 1 | Protoboard |
 
 
-4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+**4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-En este punto se contestará todo lo planteado en las guías.
+**TABLA 4.1**
 
-5.VIDEO
+Medicion de voltaje aplicando superposición 
+
+|**Voltaje total (VA)**|           | **Voltaje (VA) cuando V2=0** |            | **Voltaje (VA) cuando V1=0** |           |
+|        :--:          |   :---:   |            :---:             |   :---:    |            :---:             |   :---:   |
+|        Calculado     |   Medido  |          Calculado           |   Medido   |            Calculado         |   Medido  |  
+|                |    |                       |      |                        |     | 
+  
+
+
+**TABLA 4.2**
+
+Medicion de voltaje aplicando superposición 
+
+|**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
+|        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
+|        Calculado       |   Medido  |          Calculado             |   Medido   |            Calculado           |   Medido  |  
+|               |    |                          |      |                      |   | 
+
+- **Calculo del Error**
+
+
+**5.VIDEO**
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
 
-6.CONCLUSIONES
+**6.CONCLUSIONES**
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
-7.BIBLIOGRAFÍA
+**7.BIBLIOGRAFÍA**
 
 Emplear normas APA para el informe e IEEE para el artículo
