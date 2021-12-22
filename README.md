@@ -63,7 +63,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **CÁLCULOS**
 
-![imagen](https://user-images.githubusercontent.com/93798427/147125470-a0cc1455-63a8-418f-9476-5a2d464786b6.png)4
+![imagen](https://user-images.githubusercontent.com/93798427/147125470-a0cc1455-63a8-418f-9476-5a2d464786b6.png)
 
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147128882-ad6342f0-551d-4111-8e25-f9e74540af2b.png)
