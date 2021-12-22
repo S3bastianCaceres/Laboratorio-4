@@ -143,7 +143,7 @@ Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad 
 |**Voltaje total (VA)**|           | **Voltaje (VA) cuando V2=0** |            | **Voltaje (VA) cuando V1=0** |           |
 |        :--:          |   :---:   |            :---:             |   :---:    |            :---:             |   :---:   |
 |        Calculado     |   Medido  |          Calculado           |   Medido   |            Calculado         |   Medido  |  
-|                |   0.95mV |                       |      |                        |     | 
+|      0.95mV          |    |                       |      |                        |     | 
   
 
 
@@ -152,7 +152,7 @@ Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad 
 |**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
 |        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
 |        Calculado       |   Medido  |          Calculado             |   Medido   |            Calculado           |   Medido  |  
-|               |   25.54mA |                          |      |                      |   | 
+|    25.54mA           |    |                          |      |                      |   | 
 
 - **Calculo del Error**
 
