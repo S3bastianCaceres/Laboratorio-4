@@ -63,13 +63,20 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 **CIRCUITO ARMADO EN TINKERCAD**
 
+**Voltaje VA Total y Corriente Ix Total**
 
 
+[![Circuito-1.png](https://i.postimg.cc/59XLTPbx/Circuito-1.png)](https://postimg.cc/hhqX71Xw)
 
 
+**Fuente de voltaje 20V=0**
+
+[![Circuito-2.png](https://i.postimg.cc/v8nD5CG6/Circuito-2.png)](https://postimg.cc/z3JJrtbJ)
 
 
+**Fuente de voltaje 12V=0**
 
+[![Circuito-3.png](https://i.postimg.cc/13mthtwp/Circuito-3.png)](https://postimg.cc/9rkVycxM)
 
 
 **CIRCUITO ARMADO EN PROTEUS**
