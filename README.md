@@ -3,8 +3,9 @@
  **1.OBJETIVOS**
 
 
-}Objetivos específicos:
+Objetivos específicos:
 -	Aplicar el teorema de superposición de forma correcta, para la resolución del ejercicio planteado 
+-	Armar correctamente los circuitos, usando los elementos y valores de resistencias, voltajes y corrientes asignados.
 -	Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en Proteus
 
 
