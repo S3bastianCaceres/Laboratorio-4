@@ -61,6 +61,32 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+**CÁLCULOS**
+
+![imagen](https://user-images.githubusercontent.com/93798427/147125470-a0cc1455-63a8-418f-9476-5a2d464786b6.png)4
+
+
+![imagen](https://user-images.githubusercontent.com/93798427/147128882-ad6342f0-551d-4111-8e25-f9e74540af2b.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147128919-aef51267-eca5-42d6-abb1-1a6ba65d89a0.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147128958-c007c68b-7d3e-47d7-8605-f2402eba6153.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147136830-c7ccfb3b-3e0e-4667-ba62-57d7554e9049.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147129041-9a9f7460-8a6a-43a1-9757-f8dae1d0247d.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147129090-f00b8fa7-7ad4-4e68-924c-193422610a5d.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147129148-ae501cf6-4caa-4559-a475-24d254161dd0.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147129174-1ef1f83d-8375-4186-af8b-e8edc3ef0df4.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147129182-128bf792-feeb-4b5a-a710-823dc1834ae5.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/147136875-b1f8cbec-13d0-44be-8afc-bdd08b50a87c.png)
+
+
 **CIRCUITO ARMADO EN TINKERCAD**
 
 **Voltaje VA Total y Corriente Ix Total**
