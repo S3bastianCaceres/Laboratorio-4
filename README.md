@@ -34,18 +34,39 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 El contenido debe ser desarrollado.
 
-3.EXPLICACIÓN DEL PROCEDIMIENTO
+**3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+3.1 **REQUISITOS PREVIOS**
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
+Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el
+Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la polaridad
+del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en
+la tabla 4.1. y 4.2. según corresponda.
 
-    Diagramas de bloques.
-    Diagramas UML. (casos de uso-clase)
-    Diagramas eléctricos.
-    Diagramas esquemáticos.
+3.2 **NFORMACIÓN GENERAL**
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
+Uno de los métodos que se aplica en el análisis de circuitos eléctricos que cuentan
+con varias fuentes, es el Teorema de Superposición que establece que:
+
+El voltaje o corriente a través de cualquier elemento del circuito puede obtenerse
+sumando algebraicamente todos los voltajes o corrientes individuales generados por
+cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero.
+
+Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
+las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
+
+ 3.3 **MATERIAL Y EQUIPO REQUERIDO**
+
+|**CANTIDAD**| **ELEMENTO**|
+|:---: | :---: |
+| 2 | Fuente de voltaje de C.D |
+| 2 | Multimetros digitales |
+| 1 | Resistor de 1 kΩ |
+| 1 | Resistor de 2.2 kΩ |
+| 1 | Resistor de 820 Ω |
+| 1 | Resistor de 470 Ω |
+| 1 | Protoboard |
+
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
