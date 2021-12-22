@@ -3,6 +3,9 @@
  **1.OBJETIVOS**
 
 
+}Objetivos específicos:
+-	Aplicar el teorema de superposición de forma correcta, para la resolución del ejercicio planteado 
+-	Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en Proteus
 
 
 **2.MARCO TEÓRICO**
