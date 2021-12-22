@@ -67,12 +67,51 @@ las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
 | 1 | Resistor de 470 Ω |
 | 1 | Protoboard |
 
+3.4 **Procedimiento**
+
+- Armar el circuito que se muestra en la figura 4.1. (Tanto en Tinkercad, como en un simulador a elección)
+
+![image](https://user-images.githubusercontent.com/93739242/147124564-48757c6c-10bc-4bb7-96dc-b0336fef2fe3.png)
+
+- Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+- Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+- Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+**CIRCUITO ARMADO EN TINKERCAD**
+
+
+**CIRCUITO ARMADO EN PROTEUS**
+
+- **Voltaje VA Total y Corriente Ix Total**
+
+![WhatsApp Image 2021-12-22 at 10 21 11](https://user-images.githubusercontent.com/93739242/147126407-4ff901db-56a4-4245-935b-1652303a2ce3.jpeg)
+
+Armamos la figura del circuito y colocamos el voltimetro en paralelo para medir el voltaje de la resistencia VA, además colocamos el Amperimetro en serie para medir la corriente de IX.
+
+- **Fuente de voltaje 20V=0**
+ 
+![WhatsApp Image 2021-12-22 at 10 30 20](https://user-images.githubusercontent.com/93739242/147126435-00935614-34fe-4d5d-8f54-61a01f76bb7c.jpeg)
+ 
+Cortocircuitamos la fuente de voltaje V1 e intercambiamos la polaridad del voltimetro.
+
+- **Fuente de voltaje 12V=0**
+
+![WhatsApp Image 2021-12-22 at 10 34 42](https://user-images.githubusercontent.com/93739242/147126457-06c09727-6674-4d62-8fbe-15eb2f3c7513.jpeg)
+
+Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad del voltimetro.
+
 
 **4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-**TABLA 4.1**
-
-Medicion de voltaje aplicando superposición 
+**TABLA 4.1** Medición de voltaje aplicando superposición 
 
 |**Voltaje total (VA)**|           | **Voltaje (VA) cuando V2=0** |            | **Voltaje (VA) cuando V1=0** |           |
 |        :--:          |   :---:   |            :---:             |   :---:    |            :---:             |   :---:   |
@@ -81,9 +120,7 @@ Medicion de voltaje aplicando superposición
   
 
 
-**TABLA 4.2**
-
-Medicion de voltaje aplicando superposición 
+**TABLA 4.2** Medición de corriente aplicando superposición 
 
 |**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
 |        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
