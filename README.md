@@ -156,6 +156,12 @@ conclusiones.
 |  0.95V | 952mV   | 159 | 7.48V |  7.48V  |  6.527V |   6.53V  | 
   
 
+  
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
+
 
 **TABLA 4.2** Medición de corriente aplicando superposición 
 
