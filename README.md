@@ -2,8 +2,12 @@
  
  **1.OBJETIVOS**
 
+**Objetivo General**
 
-Objetivos específicos:
+- Analizar de forma teórica y de forma experimental el teorema de superposición mediante su comprobación a través de simuladores (Tinkercad y Proteus) y calculos analíticos, respetando tanto la polaridad del voltaje como el sentido de la corriente, asi también, siguiendo los pasos correctos de acuerdo al metodo.
+
+**Objetivos específicos:**
+
 -	Aplicar el teorema de superposición de forma correcta, para la resolución del ejercicio planteado 
 -	Armar correctamente los circuitos, usando los elementos y valores de resistencias, voltajes y corrientes asignados.
 -	Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en Proteus
@@ -11,7 +15,7 @@ Objetivos específicos:
 
 **2.MARCO TEÓRICO**
 
-
+[![Marco-Teorico-TS.jpg](https://i.postimg.cc/htjy2hpN/Marco-Teorico-TS.jpg)](https://postimg.cc/BXrB6ZWC)
 
 
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
@@ -65,7 +69,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
-**CÁLCULOS**
+**PROCEDIMIENTO ANALITICO**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147125470-a0cc1455-63a8-418f-9476-5a2d464786b6.png)
  
@@ -73,7 +77,7 @@ Aplicamos el teorema de superposición en la fuente de 12 V
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147128882-ad6342f0-551d-4111-8e25-f9e74540af2b.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/147128919-aef51267-eca5-42d6-abb1-1a6ba65d89a0.png)
+![image](https://user-images.githubusercontent.com/93739242/147175224-f896987b-99ad-498f-87cc-88423a9290f9.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147128958-c007c68b-7d3e-47d7-8605-f2402eba6153.png)
 
@@ -85,7 +89,7 @@ Aplicamos el teorema de superposición en la fuente de 20V
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147170862-7746e588-7cc5-4fed-9c4f-76743cae4179.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/147170899-3e3527dd-6b6f-42eb-a417-a0f7cc723cd7.png)
+![image](https://user-images.githubusercontent.com/93739242/147175363-f99cecab-6738-44ca-8ba0-7ca28d1c8659.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147171224-761b91ac-f049-4885-bb8f-532b01d34fc4.png)
 
@@ -135,10 +139,10 @@ Cortocircuitamos la fuente de voltaje V1 e intercambiamos la polaridad del volti
 
 Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad del voltimetro.
 
-**PROCEDIMIENTO ANALITICO**
 
-
-
+- Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
 
 
 
@@ -149,7 +153,7 @@ Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad 
 |**Voltaje total (VA)**|           | **Voltaje (VA) cuando V2=0** |            | **Voltaje (VA) cuando V1=0** |           |
 |        :--:          |   :---:   |            :---:             |   :---:    |            :---:             |   :---:   |
 |        Calculado     |   Medido  |          Calculado           |   Medido   |            Calculado         |   Medido  |  
-|      0.95V          |    |                       |      |                        |     | 
+|      0.95V          | 952mV   |          7.48V             |   7.48V   |       6.527V                 |   6.53V  | 
   
 
 
@@ -158,7 +162,7 @@ Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad 
 |**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
 |        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
 |        Calculado       |   Medido  |          Calculado             |   Medido   |            Calculado           |   Medido  |  
-|    25.54mA           |    |                          |      |                      |   | 
+|    25.53mA           |  25.5mA  |              0A           |   0A   |   25.53mA                   | 25.5mA  | 
 
 - **Calculo del Error**
 
@@ -183,4 +187,7 @@ Cortocircuitamos la fuente de voltaje V2 e intercambiamos de nuevo la polaridad 
 
 
 **7.BIBLIOGRAFÍA**
+
+- Teorema de la superposicion. (2020, 2 junio). TINA Design Suite. https://www.tina.com/es/superposition-theorem/
+- M. (2021, 20 julio). Teorema de Superposición. MiElectrónicaFácil.com. https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-superposicion/
 
