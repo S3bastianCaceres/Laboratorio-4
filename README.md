@@ -150,10 +150,10 @@ conclusiones.
 
 **TABLA 4.1** Medición de voltaje aplicando superposición 
 
-|**Voltaje total (VA)**|        |   | **Voltaje (VA) cuando V2=0** |          |      | **Voltaje (VA) cuando V1=0** |           |  
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Calculado | Medido | %Error | Calculado |   Medido  | %Error | Calculado |   Medido  |%Error|  
-|  0.95V | 952mV   | 159 | 7.48V |  7.48V  | | 6.527V |   6.53V  | 
+|**Voltaje total (VA)**|        |   | **Voltaje (VA) cuando V2=0** |          |      | **Voltaje (VA) cuando V1=0** |           |        |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Calculado | Medido | % Error | Calculado |   Medido  | % Error | Calculado |   Medido  | % Error |  
+|  0.95V | 952mV   | 0.21 % | 7.48V |  7.48V  | 0 % | 6.527V |   6.53V  | 0.045 % |
   
 
   
