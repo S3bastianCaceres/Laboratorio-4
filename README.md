@@ -68,7 +68,8 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 **CÁLCULOS**
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147125470-a0cc1455-63a8-418f-9476-5a2d464786b6.png)
-
+ 
+Aplicamos el teorema de superposición en la fuente de 12 V 
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147128882-ad6342f0-551d-4111-8e25-f9e74540af2b.png)
 
@@ -79,6 +80,8 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 ![imagen](https://user-images.githubusercontent.com/93798427/147136830-c7ccfb3b-3e0e-4667-ba62-57d7554e9049.png)
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147129041-9a9f7460-8a6a-43a1-9757-f8dae1d0247d.png)
+
+Aplicamos el teorema de superposición en la fuente de 20V 
 
 ![imagen](https://user-images.githubusercontent.com/93798427/147129090-f00b8fa7-7ad4-4e68-924c-193422610a5d.png)
 
