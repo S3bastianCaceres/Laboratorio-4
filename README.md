@@ -153,7 +153,7 @@ conclusiones.
 |**Voltaje total (VA)**|        |   | **Voltaje (VA) cuando V2=0** |          |      | **Voltaje (VA) cuando V1=0** |           |  
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Calculado | Medido | %Error | Calculado |   Medido  | %Error | Calculado |   Medido  |%Error|  
-|  0.95V | 952mV   | 159 | 7.48V |  7.48V  | | 6.527V |   6.53V  | 
+|  0.95V | 952mV   | 159 | 7.48V |  7.48V  |  6.527V |   6.53V  | 
   
 
   
@@ -182,7 +182,9 @@ conclusiones.
 **5.VIDEO**
 
 
+https://drive.google.com/file/d/1Xkke35zQDWUAk9G4_Ogld7S4vB4bDeUn/view?usp=sharing
 
+El video fue subido a drive debido a que es muy largo y youtube no acepta videos de más de 15 minutos.
 
 
 **6.CONCLUSIONES**
