@@ -157,19 +157,12 @@ conclusiones.
 |  0.95V | 952mV   | 0.21% | 7.48V |  7.48V  | 0% | 6.527V |   6.53V  | 0.045% |
 
 
-  
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
-
-
 **TABLA 4.2** Medición de corriente aplicando superposición 
 
-|**Corriente total (Ix)**|           | **Corriente (Ix) cuando V2=0** |            | **Corriente (Ix) cuando V1=0** |           |
-|        :--:            |   :---:   |            :---:               |   :---:    |            :---:               |   :---:   |
-|        Calculado       |   Medido  |          Calculado             |   Medido   |            Calculado           |   Medido  |  
-|    25.53mA           |  25.5mA  |              0A           |   0A   |   25.53mA                   | 25.5mA  | 
+|**Corriente total (Ix)**|     |      | **Corriente (Ix) cuando V2=0** |     |       | **Corriente (Ix) cuando V1=0** |     |      |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Calculado | Medido |  %Error |  Calculado  |   Medido    | %Error   | Calculado |   Medido  | %Error  |
+| 25.53mA   |  25.5mA  |   0.12%  |  0A     |   0A   |   0%   |   25.53mA    | 25.5mA  |  0.12%   |
 
 - **Calculo del Error**
 
