@@ -177,10 +177,15 @@ El video fue subido a drive debido a que es muy largo y youtube no acepta videos
 
 **6.CONCLUSIONES**
 
--	Al comparar todos los valores obtenidos tanto en los que calculamos como los simulados, obtuvimos un error pequeño menor al 5%, por lo que podemos decir que son correctos. 
+- Mediante el teorema de superposición de manera teórica se obtuvo datos similares respecto a los datos obtenidos en los simuladores con instrumentos ideales.
 
+- Al análizar el circuito cuando se elimina la fuente de 12V por un circuito cerrado, se observa que se trata de un corto circuito en el circuito, obteniendo asi una intensidad de corriente de 0A, su sentido de corriente es antihorario.
 
+- Al análizar el circuito cuando se elimina 20V por un circuito cerrado, se observa que se pueden encontrar valores de voltaje y corriente en el circuito, su sentido de corriente es antihorario. 
 
+- Una vez obtenidos los resultados se realizo una suma algebraica de los datos para comprobar el teorema de superposicion, el teorema de superposición permite trabajar con circuitos mas simples eliminando fuentes de voltaje o corriente, pero es importante saber cuál es el sentido de la corriente para realizar sumas algebraicas y asi obtener datos generales que se buscan en un circuito.
+
+- Al comparar todos los valores obtenidos tanto en los que calculamos como los simulados, obtuvimos un error pequeño menor al 5%, por lo que podemos decir que son correctos.
 
 **7.BIBLIOGRAFÍA**
 
