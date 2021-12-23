@@ -83,15 +83,18 @@ Aplicamos el teorema de superposición en la fuente de 12 V
 
 Aplicamos el teorema de superposición en la fuente de 20V 
 
-![imagen](https://user-images.githubusercontent.com/93798427/147129090-f00b8fa7-7ad4-4e68-924c-193422610a5d.png)
+![imagen](https://user-images.githubusercontent.com/93798427/147170862-7746e588-7cc5-4fed-9c4f-76743cae4179.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/147129148-ae501cf6-4caa-4559-a475-24d254161dd0.png)
+![imagen](https://user-images.githubusercontent.com/93798427/147170899-3e3527dd-6b6f-42eb-a417-a0f7cc723cd7.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/147129174-1ef1f83d-8375-4186-af8b-e8edc3ef0df4.png)
+![imagen](https://user-images.githubusercontent.com/93798427/147171224-761b91ac-f049-4885-bb8f-532b01d34fc4.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/147129182-128bf792-feeb-4b5a-a710-823dc1834ae5.png)
+![imagen](https://user-images.githubusercontent.com/93798427/147171237-faa5444b-8b88-44a7-ac28-a6689600db3e.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/147136875-b1f8cbec-13d0-44be-8afc-bdd08b50a87c.png)
+![imagen](https://user-images.githubusercontent.com/93798427/147171260-6cf04c6a-1248-4258-a8a4-ff0682ed1083.png)
+
+
+
 
 
 **CIRCUITO ARMADO EN TINKERCAD**
