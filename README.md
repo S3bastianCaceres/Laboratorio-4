@@ -18,6 +18,8 @@
 [![Marco-Teorico-TS.jpg](https://i.postimg.cc/htjy2hpN/Marco-Teorico-TS.jpg)](https://postimg.cc/BXrB6ZWC)
 
 
+[![Porcentaje-de-error.png](https://i.postimg.cc/KYtDvTbs/Porcentaje-de-error.png)](https://postimg.cc/1g5qvffp)
+
 **3.EXPLICACIÓN DEL PROCEDIMIENTO**
 
 3.1 **Requisitos Previos**
@@ -100,7 +102,6 @@ Aplicamos el teorema de superposición en la fuente de 20V
 
 
 
-
 **CIRCUITO ARMADO EN TINKERCAD**
 
 **Voltaje VA Total y Corriente Ix Total**
@@ -163,13 +164,6 @@ conclusiones.
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Calculado | Medido |  %Error |  Calculado  |   Medido    | %Error   | Calculado |   Medido  | %Error  |
 | 25.53mA   |  25.5mA  |   0.12%  |  0A     |   0A   |   0%   |   25.53mA    | 25.5mA  |  0.12%   |
-
-- **Calculo del Error**
-
-
-
-
-
 
 
 
